@@ -9,6 +9,7 @@
   width: 100vw;
   position: fixed;
   top: 0;
+  padding-bottom: 0.5rem;
 }
 
 .cor img {
